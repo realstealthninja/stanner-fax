@@ -1,0 +1,10 @@
+#title {
+	dock: top;
+	background: black;
+	align: center top;
+}
+#welcome {
+	background: white;
+	color: black;
+	align: center middle;
+}
